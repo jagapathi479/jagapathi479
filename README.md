@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagapathi479
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in  (Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
